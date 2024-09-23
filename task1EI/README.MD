@@ -35,7 +35,7 @@ This project covers six design patterns:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://https://github.com/Bhumil0808/EI_CodingTask.git
+   git clone https://github.com/Bhumil0808/EI_CodingTask.git
    ```
 
 2. **Navigate to the project directory:**
@@ -193,6 +193,6 @@ task1EI/
 │       ├── BasicTextEditor.java
 │       └── SpellCheckDecorator.java
 │       └── Main.java
-|
+
 
 ```
